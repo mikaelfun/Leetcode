@@ -45,4 +45,5 @@ class Solution:
 
 if __name__ == "__main__":
     a = Solution()
-    a.invertTree(9999997)
+    root = TreeNode(11)
+    print (a.invertTree(root).val)
