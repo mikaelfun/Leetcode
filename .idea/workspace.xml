@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3a8010b-3f33-42b6-a82d-815c48c9b418" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PrintFileAndDirectory.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Company Test/Myota/PrintFileAndDirectory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Company Test/Myota/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="msfs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Company Test/Myota/msfs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7372">
+              <caret line="388" column="29" lean-forward="false" selection-start-line="388" selection-start-column="29" selection-end-line="388" selection-end-column="29" />
+              <folding>
+                <element signature="e#491#500#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wordCounter(Multithread).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Company Test/MultithreadCounter/wordCounter(Multithread).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="43" column="76" lean-forward="false" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="76" />
+              <folding>
+                <element signature="e#401#411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Company Test/Myota/process1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Company Test/Myota/process2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Company Test/Myota/process3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>os.path.exists</find>
+      <find>lock.release()</find>
+      <find>.release</find>
+      <find>load</find>
+      <find>'w'</find>
+      <find>FileLock</find>
+      <find>writeFullBuffer</find>
+      <find>is_locked()</find>
+      <find>f_name</find>
+      <find>load_info</find>
+      <find>os.path.join(</find>
+      <find>frag file does</find>
+      <find>frag file does not exist!</find>
+      <find>getBuffer</find>
+      <find>open</find>
+      <find>print</find>
+      <find>print (path)</find>
+      <find>f_name =</find>
+      <find>save_info</find>
+      <find>writeFragFrom</find>
+      <find>bytes</find>
+      <find>readat fail</find>
+      <find>create_dir_if_empty</find>
+      <find>__fullpath__</find>
+      <find>readFragFrom</find>
+      <find>Open</find>
+      <find>read</find>
+      <find>readAt</find>
+      <find>if os.getpid() not in</find>
+      <find>time.sleep</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'r+'</replace>
+      <replace>rootPath</replace>
+      <replace>fragSize</replace>
+      <replace>is_locked</replace>
+      <replace>fullPartialPath</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DP_programming/Candies.py" />
+        <option value="$PROJECT_DIR$/DP_programming/Sam and sub-strings.py" />
+        <option value="$PROJECT_DIR$/DP_programming/Summing Pieces.py" />
+        <option value="$PROJECT_DIR$/DP_programming/516. Longest Palindromic Subsequence.py" />
+        <option value="$PROJECT_DIR$/DP_programming/The Longest Common Subsequence.py" />
+        <option value="$PROJECT_DIR$/DP_programming/32. Longest Valid Parentheses.py" />
+        <option value="$PROJECT_DIR$/DP_programming/63. Unique Paths II.py" />
+        <option value="$PROJECT_DIR$/DP_programming/64. Minimum Path Sum.py" />
+        <option value="$PROJECT_DIR$/DP_programming/72. Edit Distance.py" />
+        <option value="$PROJECT_DIR$/DP_programming/87. Scramble String.py" />
+        <option value="$PROJECT_DIR$/DP_programming/322. Coin Change.py" />
+        <option value="$PROJECT_DIR$/DP_programming/357. Count Numbers with Unique Digits.py" />
+        <option value="$PROJECT_DIR$/DP_programming/523. Continuous Subarray Sum.py" />
+        <option value="$PROJECT_DIR$/DP_programming/198. House Robber.py" />
+        <option value="$PROJECT_DIR$/DP_programming/The Maximum Subarray.py" />
+        <option value="$PROJECT_DIR$/DP_programming/70. Climbing Stairs.py" />
+        <option value="$PROJECT_DIR$/DP_programming/test" />
+        <option value="$PROJECT_DIR$/DP_programming/494. Target Sum.py" />
+        <option value="$PROJECT_DIR$/DP_programming/746. Min Cost Climbing Stairs.py" />
+        <option value="$PROJECT_DIR$/Greedy/134. Gas Station.py" />
+        <option value="$PROJECT_DIR$/Greedy/122. Best Time to Buy and Sell Stock II.py" />
+        <option value="$PROJECT_DIR$/Greedy/121. Best Time to Buy and Sell Stock.py" />
+        <option value="$PROJECT_DIR$/DP_programming/187. Repeated DNA Sequences.py" />
+        <option value="$PROJECT_DIR$/336. Palindrome Pairs.py" />
+        <option value="$PROJECT_DIR$/94. Binary Tree Inorder Traversal.py" />
+        <option value="$PROJECT_DIR$/DP_programming/213. House Robber II.py" />
+        <option value="$PROJECT_DIR$/Two_pointer/11. Container With Most Water.py" />
+        <option value="$PROJECT_DIR$/Company Test/MultithreadCounter/reorganize.py" />
+        <option value="$PROJECT_DIR$/Company Test/MultithreadCounter/myProgram.py" />
+        <option value="$PROJECT_DIR$/Company Test/MultithreadCounter/wordCounter(Multithread).py" />
+        <option value="$PROJECT_DIR$/Company Test/drawbridge/test.py" />
+        <option value="$PROJECT_DIR$/DP_programming/718. Maximum Length of Repeated Subarray.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/challenge.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test2_0.txt" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/MSFS/meta/test2.txt.json" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/MSFS/meta/a_0.txt.json" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/MSFS/meta/a_0.txt.json23" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/test.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/main.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/test1.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test_52.txt" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/1.TreeTraversal.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/2. PrintFileAndDirectory.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/PrintFileAndDirectory.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/TreeTraversal.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/README.txt" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/process2.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/process3.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/MSFS/meta/test.txt.json" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/process1.py" />
+        <option value="$PROJECT_DIR$/Company Test/Myota/msfs.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.process1">
+    <configuration name="2. PrintFileAndDirectory" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Company Test/Myota" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="C:\Users\Kun\PycharmProjects\Leetcode\Company Test\Myota\PrintFileAndDirectory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="TreeTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Company Test/Myota" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Company Test/Myota/TreeTraversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="process1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Company Test/Myota" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Company Test/Myota/process1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="process2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Company Test/Myota" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Company Test/Myota/process2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="process3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Company Test/Myota" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Company Test/Myota/process3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.2. PrintFileAndDirectory" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TreeTraversal" />
+      <item index="2" class="java.lang.String" itemvalue="Python.process1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.process2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.process3" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.process1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.process3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.process2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TreeTraversal" />
+        <item index="4" class="java.lang.String" itemvalue="Python.2. PrintFileAndDirectory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22761194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/492. Construct the Rectangle.py</url>
+          <line>26</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/68. Text Justification.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/234. Palindrome Linked List.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/codingChallenge1.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/84. Largest Rectangle in Histogram.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/55. Jump Game.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/55. Jump Game.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/The Coin Change Problem.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/Sherlock and Cost.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/Sherlock and Cost.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/The Longest Increasing Subsequence.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/Summing Pieces.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/The Longest Common Subsequence.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/32. Longest Valid Parentheses.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/32. Longest Valid Parentheses.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/32. Longest Valid Parentheses.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/63. Unique Paths II.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/63. Unique Paths II.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/63. Unique Paths II.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/87. Scramble String.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/523. Continuous Subarray Sum.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP_programming/523. Continuous Subarray Sum.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/94. Binary Tree Inorder Traversal.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Company Test/Myota/process1.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Company Test/Myota/msfs.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Company Test/Myota/msfs.py</url>
+          <line>166</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Company Test/Myota/msfs.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Company Test/Myota/msfs.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Company Test/Myota/msfs.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Company Test/MultithreadCounter/wordCounter(Multithread).py</url>
+          <line>8</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="55" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DP_programming/746. Min Cost Climbing Stairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="42" lean-forward="false" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Greedy/134. Gas Station.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="24" lean-forward="false" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_programming/70. Climbing Stairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Greedy/122. Best Time to Buy and Sell Stock II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="53" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Greedy/121. Best Time to Buy and Sell Stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_programming/187. Repeated DNA Sequences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/336. Palindrome Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_programming/213. House Robber II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_programming/198. House Robber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_programming/Summing Pieces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding>
+            <element signature="e#16#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. 3Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="54" column="4797" lean-forward="true" selection-start-line="54" selection-start-column="4797" selection-end-line="54" selection-end-column="4797" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/84. Largest Rectangle in Histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="226" column="105626" lean-forward="false" selection-start-line="226" selection-start-column="105626" selection-end-line="226" selection-end-column="105626" />
+          <folding>
+            <element signature="e#383#396#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/206. Reverse Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/MultithreadCounter/reorganize.py" />
+    <entry file="file://$PROJECT_DIR$/DP_programming/718. Maximum Length of Repeated Subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2135">
+          <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_programming/The Longest Increasing Subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1612">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="72" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/drawbridge/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1798">
+          <caret line="62" column="35" lean-forward="false" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingChallenge1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_programming/Sherlock and Cost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding>
+            <element signature="e#718#727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/94. Binary Tree Inorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Two_pointer/11. Container With Most Water.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/ok/test_0.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/meta/ok_test.txt.json" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/win32com/test/testPersist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test2_1.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test2_2.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test2_0.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/meta/test2.txt.json" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/meta/a_0.txt.json23" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/meta/a_0.txt.json" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/filelock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="269" column="0" lean-forward="false" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/meta/test.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test_0.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test_2.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/test.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test_52.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/TreeTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/PrintFileAndDirectory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test_1.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test_14.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test_35.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/data/directory/test_34.txt" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/MSFS/meta/test.txt.json" />
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/process2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/process3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/process1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/Myota/msfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7372">
+          <caret line="388" column="29" lean-forward="false" selection-start-line="388" selection-start-column="29" selection-end-line="388" selection-end-column="29" />
+          <folding>
+            <element signature="e#491#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Company Test/MultithreadCounter/wordCounter(Multithread).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="43" column="76" lean-forward="false" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="76" />
+          <folding>
+            <element signature="e#401#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
