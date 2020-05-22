@@ -65,9 +65,33 @@ class Solution(object):
                         k+=1
         return solution
 
+    def fourSum1(self, nums: [int], target: int) -> [[int]]:
+        arrlen = len(nums)
+        sumdict = {}
+        twosum = [[None for _ in range(arrlen)] for _ in range(arrlen)]
+        solution = []
+        counted = [[[[None for _ in range(arrlen)] for _ in range(arrlen)] for _ in range(arrlen)] for _ in
+                   range(arrlen)]
+        for i in range(arrlen):
+            for j in range(i + 1, arrlen):
+                twosum[i][j] = nums[i] + nums[j]
+                if twosum[i][j] not in sumdict:
+                    sumdict[twosum[i][j]] = [[i, j]]
+                else:
+                    sumdict[twosum[i][j]].append([i, j])
+                if target - twosum[i][j] in sumdict:
+                    for k in sumdict[target - twosum[i][j]]:
+                        temp = [k[0], k[1], i, j]
+                        temp1 = set(temp)
+                        if len(temp1) == 4:
+                            temp.sort()
+                            if not counted[temp[0]][temp[1]][temp[2]][temp[3]]:
+                                solution.append([nums[temp[0]], nums[temp[1]], nums[temp[2]], nums[temp[3]]])
+                                counted[temp[0]][temp[1]][temp[2]][temp[3]] = 1
+        return solution
 
 if __name__ == "__main__":
     a = Solution()
-    lst = [1, 0, -1, 0, -2, 2]
+    lst = [-3,-2,-1,0,0,1,2,3]
     target = 0
-    print (a.fourSum(lst, target))
+    print (a.fourSum1(lst, target))
